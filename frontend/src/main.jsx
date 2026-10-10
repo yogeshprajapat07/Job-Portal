@@ -6,7 +6,7 @@ import App from "./App.jsx";
 import Application from "./application.jsx";
 import Login from "./Login.jsx";
 import Signup from "./Signup.jsx";
-import Profile from "./Profile.jsx";
+import Profile from "./profile.jsx";
 import MyApplications from "./MyApplication.jsx";
 import AdminLogin from "./AdminLogin.jsx";
 
