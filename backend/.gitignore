@@ -1,0 +1,17 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build output
+frontend/dist/
+
+# Logs
+*.log
+
+# Uploaded resumes
+backend/uploads/*
+!backend/uploads/.gitkeep
